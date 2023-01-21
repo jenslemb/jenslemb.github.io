@@ -8,7 +8,7 @@ I am a PhD student at the Department of Political Science and Public Management 
 
 My research interests lie in the intersection between machine learning, econometrics, and public administration. My PhD dissertation examines job mobility in the public sector, where I leverage machine learning methods to improve our understanding of why employees exit organizations. I am also engaged in projects on discrimination against minority citizens in bureaucratic recruitment and access to public services.
 
-After completion of my PhD in August 2023, I am exiting academia to pursue a career in data science and analytics.
+After completion of my PhD (expected August 2023), I am exiting academia to pursue a career in data science and analytics.
 
 Outside work, I am a passionate bridge player, a mediocre mid-distance runner, and a novice sourdough baker.
 
