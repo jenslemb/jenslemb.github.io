@@ -1,0 +1,15 @@
+---
+title: "Hello world!"
+---
+
+![](images/img-00193_h.jpg){fig-align="center"}
+
+I am a PhD student at the Department of Political Science and Public Management at the University of Southern Denmark. I am currently a visiting PhD researcher at the Data Science Lab at the Hertie School in Berlin. I hold an MSc and a BSc in political science.
+
+My research interests lie in the intersection between machine learning, econometrics, and public administration. My PhD dissertation examines job mobility in the public sector, where I leverage machine learning methods to improve our understanding of why employees exit organizations. I am also engaged in projects on discrimination against minority citizens in bureaucratic recruitment and access to public services.
+
+After completion of my PhD in August 2023, I am exiting academia to pursue a career in data science and analytics.
+
+Outside work, I am a passionate bridge player, a mediocre mid-distance runner, and a novice sourdough baker.
+
+<!--# ♠️ ♥️ ♦️ ♣️ -->

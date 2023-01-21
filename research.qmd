@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+Here you can find an overview of the research projects that I am currently engaged in. Shoot me an email if you want to read the papers.
+
+## Under review
+
+-   Pruning the Forest of Turnover Research: Identifying Important Antecedents Using Predictive Modeling (with Robert Klemmensen and Signe Pihl-Thingvad). *Revise and resubmit.*
+
+-   Using Machine Learning to Evaluate Turnover Research on FEVS. *Under review.*
+
+## Working papers
+
+-   Bureaucratic Discretion and Discrimination at the Front Line (with Simon Calmar Andersen and Thorbjørn Sejr Guul). *Working paper presented at DPSA 2022.*
+
+-   Quantifying The Gap between Intentions and Behavior in Public Administration Turnover Research. *Working paper.*
+
+-   Machine Learning and Credit-Taking: An Inductive Approach to Disentangling Terrorist Attention-Seeking Behavior (with Tanja Marie Hansen). *Working paper.*
+
+## Work in progress
+
+-   Discrimination in Bureaucratic Selection.
+
+-   The Potential of Deep Learning for Improving Empirical Models in Political Science
+
+-   How Turnover Seasonality Bias Estimates in Organizational Survey Research

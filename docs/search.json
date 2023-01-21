@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello world!",
+    "section": "",
+    "text": "I am a PhD student at the Department of Political Science and Public Management at the University of Southern Denmark. I am currently a visiting PhD researcher at the Data Science Lab at the Hertie School in Berlin. I hold an MSc and a BSc in political science.\nMy research interests lie in the intersection between machine learning, econometrics, and public administration. My PhD dissertation examines job mobility in the public sector, where I leverage machine learning methods to improve our understanding of why employees exit organizations. I am also engaged in projects on discrimination against minority citizens in bureaucratic recruitment and access to public services.\nAfter completion of my PhD in August 2023, I am exiting academia to pursue a career in data science and analytics.\nOutside work, I am a passionate bridge player, a mediocre mid-distance runner, and a novice sourdough baker."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Phone: (+45) 60 16 06 68\nWork email: lemb@sam.sdu.dk\nPrivate email: jenslemb@gmail.com"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Here you can find an overview of the research projects that I am currently engaged in. Shoot me an email if you want to read the papers."
+  },
+  {
+    "objectID": "research.html#under-review",
+    "href": "research.html#under-review",
+    "title": "Research",
+    "section": "Under review",
+    "text": "Under review\n\nPruning the Forest of Turnover Research: Identifying Important Antecedents Using Predictive Modeling (with Robert Klemmensen and Signe Pihl-Thingvad). Revise and resubmit.\nUsing Machine Learning to Evaluate Turnover Research on FEVS. Under review."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\nBureaucratic Discretion and Discrimination at the Front Line (with Simon Calmar Andersen and Thorbjørn Sejr Guul). Working paper presented at DPSA 2022.\nQuantifying The Gap between Intentions and Behavior in Public Administration Turnover Research. Working paper.\nMachine Learning and Credit-Taking: An Inductive Approach to Disentangling Terrorist Attention-Seeking Behavior (with Tanja Marie Hansen). Working paper."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nDiscrimination in Bureaucratic Selection.\nThe Potential of Deep Learning for Improving Empirical Models in Political Science\nHow Turnover Seasonality Bias Estimates in Organizational Survey Research"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "## University teaching\n##### Leadership and Psychosocial Work Environment\n*Guest lecturer, MSc in political science, SDU, 2021*\n##### Advanced Applied Quantitative Methods\n*Guest lecturer, MSc in political science, SDU, 2020*\n##### Comparative Public Administration\nLecturer, MSc in political science, SDU, 2020\n##### Introduction to Political Science\n*Lecturer, BSc in political science, SDU, 2019 & 2020*\n##### Social Science Methodology\n*Supervisor, BSc in political science, SDU, 2020*\n##### Public Administration and Organization\n*Teaching assistant, BSc in political science, SDU, 2018*\n##### Quantitative Methods in Political and Social Research\n*Teaching assistant, BSc in in political science, SDU, 2017 & 2018*\n##### Social Science Methodology\n*Teaching assistant, BSc in political science, SDU, 2017*\n## Presentations and workshops\n##### Everything is under control: Determining control variables using directed acyclic graphs\n*Presentation, Section for Public Administration, SDU, 2021*\n##### Think like an algorithm\n*Workshop, ATU summer camp, 2021*"
+  }
+]
