@@ -1,0 +1,37 @@
+---
+title: "Education"
+---
+
+| 2019 -- now: PhD in Political Science, SDU
+| 2018 -- 2021: MSc in Political Science, SDU (grade average: 11.1)
+| 2015 -- 2018: BSc in Political Science, SDU (grade average: 10.4)
+
+------------------------------------------------------------------------
+
+During my PhD and MSc, I have specialized in statistics, econometrics, and machine learning. Below you can find a subset of courses I have followed during my education.
+
+## PhD courses
+
+-   Regression Analysis III: Advanced Methods (ICPSR, University of Michigan)
+
+-   Advanced Empirical Modeling of Social Science Theory (ICPSR, University of Michigan)
+
+-   Causal Inference Using Longitudinal Data (University of Copenhagen)
+
+-   An introduction to Directed Acyclic Graphs (SDU)
+
+-   Maximum Likelihood Estimation (ECPR, University of Bamberg)
+
+-   Multilevel Modeling (ECPR, University of Bamberg)
+
+## MSc courses
+
+-   Datamining and Machine Learning (Department of Mathematics and Computer Science, SDU)
+
+-   Topics in Econometrics (Department of Economics, SDU)
+
+-   Advanced Applied Statistics (Department of Political Science, SDU)
+
+-   Social Data Science (Department of Political Science, SDU)
+
+-   Introduction to Data Processing (Department of Mathematics and Computer Science, SDU)

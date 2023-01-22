@@ -2,45 +2,49 @@
 title: "Teaching"
 ---
 
-## University teaching
+## Courses
 
 ##### Leadership and Psycho-Social Work Environment
 
-*Guest lecturer, MSc in political science, SDU, 2021*
+*Guest lecturer, MSc in Political Science, SDU, 2021*
 
 ##### Advanced Applied Quantitative Methods
 
-*Guest lecturer, MSc in political science, SDU, 2020*
+*Guest lecturer, MSc in Political Science, SDU, 2020*
 
 ##### Comparative Public Administration
 
-*Lecturer, MSc in political science, SDU, 2020*
+*Lecturer, MSc in Political Science, SDU, 2020*
 
 ##### Introduction to Political Science
 
-*Lecturer, BSc in political science, SDU, 2019 & 2020*
+*Lecturer, BSc in Political Science, SDU, 2019 & 2020*
 
-##### Social Science Methodology
+##### Social Science Methodology (Metode 3)
 
-*Supervisor, BSc in political science, SDU, 2020*
+*Supervisor, BSc in Political Science, SDU, 2020*
 
 ##### Public Administration and Organization
 
-*Teaching assistant, BSc in political science, SDU, 2018*
+*Teaching assistant, BSc in Political Science, SDU, 2018*
 
-##### Quantitative Methods in Political and Social Research
+##### Quantitative Methods in Political and Social Research (Metode 2)
 
-*Teaching assistant, BSc in political science, SDU, 2017 & 2018*
+*Teaching assistant, BSc in Political Science, SDU, 2017 & 2018*
 
-##### Social Science Methodology
+##### Social Science Methodology (Metode 3)
 
-*Teaching assistant, BSc in political science, SDU, 2017*
+*Teaching assistant, BSc in Political Science, SDU, 2017*
 
 ## Presentations and workshops
 
 ##### Everything is under control: Determining control variables using directed acyclic graphs
 
 *Presentation, Section for Public Administration, SDU, 2021*
+
+##### Predicting Employee Turnover
+
+*Presentation, Section for Public Leadership, Aarhus University, 2021.*
 
 ##### Think like an algorithm
 

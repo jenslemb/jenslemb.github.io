@@ -13,6 +13,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: education.qmd
+        text: Education
       - href: contact.qmd
         text: Contact
 

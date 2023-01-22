@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hello world!",
     "section": "",
-    "text": "I am a PhD student at the Department of Political Science and Public Management at the University of Southern Denmark. I am currently a visiting PhD researcher at the Data Science Lab at the Hertie School in Berlin. I hold an MSc and a BSc in political science.\nMy research interests lie in the intersection between machine learning, econometrics, and public administration. My PhD dissertation examines job mobility in the public sector, where I leverage machine learning methods to improve our understanding of why employees exit organizations. I am also engaged in projects on discrimination against minority citizens in bureaucratic recruitment and access to public services.\nI plan to pursue a career in data science and analytics after I finish my PhD (expected August 2023).\nOutside work, I am a passionate bridge player, a mediocre mid-distance runner, and a novice sourdough baker."
+    "text": "I am a PhD student at the Department of Political Science and Public Management at the University of Southern Denmark. I am currently a visiting PhD researcher at the Data Science Lab at the Hertie School in Berlin.\nMy research interests lie in the intersection between machine learning, econometrics, and public administration. My PhD dissertation examines job mobility in the public sector, where I leverage machine learning methods to improve our understanding of why employees exit organizations. I am also engaged in projects on discrimination against minority citizens in bureaucratic recruitment and access to public services.\nI plan to pursue a career in data science and analytics after I finish my PhD (expected August 2023).\nOutside work, I am a passionate bridge player (♠️♥️♦️♣️), a mediocre mid-distance runner, and a novice sourdough baker."
   },
   {
     "objectID": "about.html",
@@ -53,13 +53,41 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Guest lecturer, MSc in political science, SDU, 2021\n\n\n\nGuest lecturer, MSc in political science, SDU, 2020\n\n\n\nLecturer, MSc in political science, SDU, 2020\n\n\n\nLecturer, BSc in political science, SDU, 2019 & 2020\n\n\n\nSupervisor, BSc in political science, SDU, 2020\n\n\n\nTeaching assistant, BSc in political science, SDU, 2018\n\n\n\nTeaching assistant, BSc in political science, SDU, 2017 & 2018\n\n\n\nTeaching assistant, BSc in political science, SDU, 2017"
+    "text": "Here you can find an overview of my teaching experience."
   },
   {
     "objectID": "teaching.html#presentations-and-workshops",
     "href": "teaching.html#presentations-and-workshops",
     "title": "Teaching",
     "section": "Presentations and workshops",
-    "text": "Presentations and workshops\n\nEverything is under control: Determining control variables using directed acyclic graphs\nPresentation, Section for Public Administration, SDU, 2021\n\n\nThink like an algorithm\nWorkshop, ATU summer camp, 2021"
+    "text": "Presentations and workshops\n\nEverything is under control: Determining control variables using directed acyclic graphs\nPresentation, Section for Public Administration, SDU, 2021\n\n\nPredicting Employee Turnover\nPresentation, Section for Public Leadership, Aarhus University, 2021.\n\n\nThink like an algorithm\nWorkshop, ATU summer camp, 2021"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "2019 – now: PhD in Political Science, SDU\n2018 – 2021: MSc in Political Science, SDU (grade average: 11.1)\n2015 – 2018: BSc in Political Science, SDU (grade average: 10.4)\nDuring my PhD and MSc, I have specialized in statistics, econometrics, and machine learning. Below you can find a subset of courses I have followed during my education."
+  },
+  {
+    "objectID": "education.html#msc-courses",
+    "href": "education.html#msc-courses",
+    "title": "Education",
+    "section": "MSc courses",
+    "text": "MSc courses\n\nDatamining and Machine Learning (Department of Mathematics and Computer Science, SDU)\nTopics in Econometrics (Department of Economics, SDU)\nAdvanced Applied Statistics (Department of Political Science, SDU)\nSocial Data Science (Department of Political Science, SDU)\nIntroduction to Data Processing (Department of Mathematics and Computer Science, SDU)"
+  },
+  {
+    "objectID": "education.html#phd-courses",
+    "href": "education.html#phd-courses",
+    "title": "Education",
+    "section": "PhD courses",
+    "text": "PhD courses\n\nRegression Analysis III: Advanced Methods (ICPSR, University of Michigan)\nAdvanced Empirical Modeling of Social Science Theory (ICPSR, University of Michigan)\nCausal Inference Using Longitudinal Data (University of Copenhagen)\nAn introduction to Directed Acyclic Graphs (SDU)\nMaximum Likelihood Estimation (ECPR, University of Bamberg)\nMultilevel Modeling (ECPR, University of Bamberg)"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nLeadership and Psycho-Social Work Environment\nGuest lecturer, MSc in Political Science, SDU, 2021\n\n\nAdvanced Applied Quantitative Methods\nGuest lecturer, MSc in Political Science, SDU, 2020\n\n\nComparative Public Administration\nLecturer, MSc in Political Science, SDU, 2020\n\n\nIntroduction to Political Science\nLecturer, BSc in Political Science, SDU, 2019 & 2020\n\n\nSocial Science Methodology (Metode 3)\nSupervisor, BSc in Political Science, SDU, 2020\n\n\nPublic Administration and Organization\nTeaching assistant, BSc in Political Science, SDU, 2018\n\n\nQuantitative Methods in Political and Social Research (Metode 2)\nTeaching assistant, BSc in Political Science, SDU, 2017 & 2018\n\n\nSocial Science Methodology (Metode 3)\nTeaching assistant, BSc in Political Science, SDU, 2017"
   }
 ]
