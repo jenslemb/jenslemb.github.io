@@ -24,4 +24,4 @@ Here you can find an overview of the research projects that I am currently engag
 
 -   The Potential of Deep Learning for Improving Empirical Models in Political Science
 
--   How Turnover Seasonality Bias Estimates in Organizational Survey Research
+-   Temporal Biases in Organizational Survey Research: The Role of Turnover Seasonality
